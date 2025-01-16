@@ -6,7 +6,7 @@ This project focuses on analyzing pizza sales data to provide actionable insight
 ## Objectives
 - Understand sales trends over time.
 - Identify best-performing pizza types and categories.
-- Analyze customer behavior and preferences.
+- Analyze customer preferences.
 - Provide insights to optimize marketing and inventory strategies.
 
 ## Data Source
