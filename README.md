@@ -50,8 +50,6 @@ The dataset used for this project includes:
 ## Conclusion
 The Pizza Sales Analysis project provides a comprehensive overview of business performance and customer preferences. By leveraging these insights, businesses can make informed decisions to drive growth and improve operational efficiency.
 
----
-
 ### Contact
 For further details or inquiries about this project, please contact:
 - **Email**: monikamoni4304@gmail.com
